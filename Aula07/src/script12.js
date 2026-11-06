@@ -2,7 +2,7 @@
 
 // For
 
-for (let acumuladora = 1; acumuladora > 0; acumuladora++) {
+for (let acumuladora = 0; acumuladora <= 10; acumuladora++) {
   console.log(acumuladora);
 }
 
